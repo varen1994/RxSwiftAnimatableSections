@@ -1,0 +1,6 @@
+framework module Pods_MultipleSectionDemoWithRx {
+  umbrella header "Pods-MultipleSectionDemoWithRx-umbrella.h"
+
+  export *
+  module * { export * }
+}
